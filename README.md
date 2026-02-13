@@ -1,5 +1,5 @@
 # StaticPage to AWS S3
-
+2026-02-13
  
 
 ### 1단계: AWS S3 버킷 설정  
